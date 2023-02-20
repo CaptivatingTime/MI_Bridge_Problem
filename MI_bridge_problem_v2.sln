@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MI_bridge_problem_v2", "MI_bridge_problem_v2\MI_bridge_problem_v2.pyproj", "{38249289-05B1-48A7-A1EB-25013A05EE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38249289-05B1-48A7-A1EB-25013A05EE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38249289-05B1-48A7-A1EB-25013A05EE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BCE1C9-D73B-43FA-85B4-122EB2AFCF6C}
+	EndGlobalSection
+EndGlobal
